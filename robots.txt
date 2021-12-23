@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yajingyang.github.io/sitemap.xml

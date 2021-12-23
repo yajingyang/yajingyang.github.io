@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yang Yajing</title>
+    <link>https://yajingyang.github.io/project/</link>
+      <atom:link href="https://yajingyang.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yajingyang.github.io/media/icon_hu59458ceb55da37e79b96176f96ca2869_588225_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://yajingyang.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Data-to-Text Generation for Financial Data</title>
+      <link>https://yajingyang.github.io/project/financial-data2text/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://yajingyang.github.io/project/financial-data2text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
