@@ -12,9 +12,8 @@ Yang Yajing is a PhD student at WING-NUS and a specialist data scientist at Rio 
 Research Interests
 ======
 * Data-to-text Generation
-* Document Summarization
-* Information Retrieval
 * Financial NLP
+* Information Retrieval
 * Natural Language Generation
 
 Education
