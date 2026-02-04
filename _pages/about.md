@@ -23,6 +23,25 @@ Education
 * **Master of Computing**, National University of Singapore, 2017 - 2018
 * **BEng in Electrical and Electronics Engineering**, Nanyang Technological University, 2011 - 2015
 
+Selected Publications
+======
+* **KAHAN: Knowledge-Augmented Hierarchical Analysis and Narration for Financial Data Narration**  
+  Yajing Yang, Tony Deng, Min-Yen Kan  
+  *Findings of EMNLP 2025*  
+  [Paper](https://aclanthology.org/2025.findings-emnlp.1405/) | [Code](https://github.com/yajingyang/kahan)
+
+* **DataTales: A Benchmark for Real-World Intelligent Data Narration**  
+  Yajing Yang, Qian Liu, Min-Yen Kan  
+  *EMNLP 2024*  
+  [Paper](https://aclanthology.org/2024.emnlp-main.601/)
+
+* **Scientific document processing: challenges for modern learning methods**  
+  Abhinav Ramesh Kashyap, Yajing Yang, Min-Yen Kan  
+  *International Journal on Digital Libraries, 2023*  
+  [Paper](https://link.springer.com/article/10.1007/s00799-023-00352-2)
+
+[View all publications →](/publications/)
+
 Work Experience
 ======
 * **Data Science - Specialist**, Rio Tinto, Jun 2020 – Present
